@@ -1,0 +1,106 @@
+<mxfile host="app.diagrams.net" modified="2023-04-26T09:03:07.740Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="irwTTgOUXfQv6__ncVfv" version="21.2.2" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1216" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="9-d625vDIgAPqHA31cNE-155" value="YourBestPet" style="shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="940" width="370" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="9-d625vDIgAPqHA31cNE-156" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9-d625vDIgAPqHA31cNE-160" target="9-d625vDIgAPqHA31cNE-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9-d625vDIgAPqHA31cNE-157" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9-d625vDIgAPqHA31cNE-160" target="9-d625vDIgAPqHA31cNE-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9-d625vDIgAPqHA31cNE-158" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9-d625vDIgAPqHA31cNE-160" target="9-d625vDIgAPqHA31cNE-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9-d625vDIgAPqHA31cNE-159" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9-d625vDIgAPqHA31cNE-160" target="9-d625vDIgAPqHA31cNE-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9-d625vDIgAPqHA31cNE-189" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9-d625vDIgAPqHA31cNE-160" target="9-d625vDIgAPqHA31cNE-184">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9-d625vDIgAPqHA31cNE-160" value="User" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="1270" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9-d625vDIgAPqHA31cNE-161" value="Cat finder" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="710" y="1160" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9-d625vDIgAPqHA31cNE-162" value="Pet finder" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="710" y="1300" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9-d625vDIgAPqHA31cNE-163" value="Petbook" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="710" y="1390" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9-d625vDIgAPqHA31cNE-164" value="Tips" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="710" y="1460" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9-d625vDIgAPqHA31cNE-165" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="762.5" y="1590" as="sourcePoint" />
+            <mxPoint x="762.5" y="1590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9-d625vDIgAPqHA31cNE-166" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9-d625vDIgAPqHA31cNE-161" target="9-d625vDIgAPqHA31cNE-167">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="740" y="1420" as="sourcePoint" />
+            <mxPoint x="910" y="1410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9-d625vDIgAPqHA31cNE-167" value="Quiz (4 questions)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="910" y="1127.5" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9-d625vDIgAPqHA31cNE-168" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="9-d625vDIgAPqHA31cNE-169">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="820" y="1190" as="sourcePoint" />
+            <mxPoint x="920" y="1435" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9-d625vDIgAPqHA31cNE-169" value="Personalized information about the animal" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="910" y="1192.5" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9-d625vDIgAPqHA31cNE-170" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="9-d625vDIgAPqHA31cNE-171">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="820" y="1332.5" as="sourcePoint" />
+            <mxPoint x="910" y="1552.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9-d625vDIgAPqHA31cNE-171" value="Quiz (5 questions)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="910" y="1270" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9-d625vDIgAPqHA31cNE-172" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="9-d625vDIgAPqHA31cNE-173">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="820" y="1332.5" as="sourcePoint" />
+            <mxPoint x="920" y="1577.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9-d625vDIgAPqHA31cNE-173" value="Personalized information about the animal" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="910" y="1335" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9-d625vDIgAPqHA31cNE-184" value="Dog finder" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="710" y="1022" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9-d625vDIgAPqHA31cNE-185" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9-d625vDIgAPqHA31cNE-184" target="9-d625vDIgAPqHA31cNE-186">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="740" y="1282" as="sourcePoint" />
+            <mxPoint x="910" y="1272" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9-d625vDIgAPqHA31cNE-186" value="Quiz (4 questions)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="910" y="989.5" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9-d625vDIgAPqHA31cNE-187" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="9-d625vDIgAPqHA31cNE-188">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="820" y="1052" as="sourcePoint" />
+            <mxPoint x="920" y="1297" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9-d625vDIgAPqHA31cNE-188" value="Personalized information about the animal" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="910" y="1054.5" width="110" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
